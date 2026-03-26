@@ -16,7 +16,6 @@ In addition to the lab exercises, this repository also includes small projects t
 
 These implementations help in understanding how data science tools and algorithms are used to analyze data and build predictive models.
 
-## Labs
 
 ## Repository Description
 This repository contains all the laboratory exercises and projects completed as part of the Data Science Lab course.
